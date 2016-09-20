@@ -6,3 +6,4 @@
 * `git commit` - 
 * `git diff` - shows you the difference between your files (I think?)
 * `git log` - idk
+* `blah blah blah this is new`
